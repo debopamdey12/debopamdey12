@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @debopamdey12
-- 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ...coding
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in ...Data Science, Machine Learning and AI
+- 🌱 I’m currently learning ...Big Data Technologies
 
 <!---
 debopamdey12/debopamdey12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
